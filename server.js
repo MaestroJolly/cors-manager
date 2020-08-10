@@ -1,3 +1,4 @@
+// Exposed the env variable
 require('dotenv').config();
 
 // Listen on a specific host via the HOST environment variable
